@@ -2,10 +2,12 @@
 
   
 co딩 안해서 co딩하려고 man든 mo임   (:sob:삭제 후 재생성:sob:)  
-: 프로그래머스 문제 풀기   
-       
-       
-:pushpin:history  
+: 프로그래머스 문제 풀기 
+ 
+<br>
+
+
+### :pushpin: history  
 2020.07.24:deciduous_tree:같은 숫자는 싫어  
 2020.07.25:deciduous_tree:나누어 떨어지는 수  
 2020.07.31:deciduous_tree:문자열 내 p와 y의 개수  
@@ -29,3 +31,7 @@ co딩 안해서 co딩하려고 man든 mo임   (:sob:삭제 후 재생성:sob:)
 2020.10.18:deciduous_tree:문자열 내림차순으로 배치하기  
 2020.10.25:deciduous_tree:x만큼 간격이 있는 n개의 숫자  
 2020.10.25:deciduous_tree:평균 구하기 
+
+---
+2021 ~  
+해커랭크 문제풀기 
