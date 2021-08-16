@@ -44,7 +44,7 @@ class Result {
 
 }
 
-public class ExtraLongFactorials {
+public class extraLongFactorials {
 	public static void main(String[] args) throws IOException {
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 
