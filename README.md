@@ -33,5 +33,5 @@ co딩 안해서 co딩하려고 man든 mo임   (:sob:삭제 후 재생성:sob:)
 2020.10.25:deciduous_tree:평균 구하기 
 
 ---
-2021.07.31 ~  
+:deciduous_tree: 2021.07.31 ~   
 해커랭크 문제풀기 
