@@ -23,11 +23,11 @@ class StaircaseResult{
 //    		System.out.println(str);
 //    	}
     	
-    	for(int i=1; i<=n; i++) {
+    	for(int i=1; i<=n; i++) {  // 1
     		String str ="";
     		
-    		for(int j=n; j>=1; j--) {
-    			if(j>i) {  //
+    		for(int j=n; j>=1; j--) {	
+    			if(j>i) {  // 6>1
     				str+=strSpace;
     			} else {
     				str+=strShape;
